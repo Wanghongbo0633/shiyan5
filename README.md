@@ -53,6 +53,8 @@ public static StringBuffer ReadTxt(String path) {
         return s;
     }
 六、 实验结果
+https://github.com/Wanghongbo0633/shiyan5/blob/main/2.PNG
 
-
+七、 实验体会
+本次实验主要难点在于文件的处理以及字与词的查询上，对异常处理更了解了。
 
